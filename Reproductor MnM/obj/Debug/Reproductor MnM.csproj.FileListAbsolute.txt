@@ -1,0 +1,18 @@
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\bin\Debug\Reproductor MnM.exe.config
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\bin\Debug\Reproductor MnM.exe
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\bin\Debug\Reproductor MnM.pdb
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.csproj.AssemblyReference.cache
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.csproj.ResolveComReference.cache
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor_MnM.Form1.resources
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor_MnM.Properties.Resources.resources
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.csproj.GenerateResource.cache
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.exe
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.pdb
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\bin\Debug\MACTrackBarLib.dll
+C:\Users\Miguel Farias\source\repos\Reproductor MnM\Reproductor MnM\obj\Debug\Reproductor MnM.csproj.CopyComplete
